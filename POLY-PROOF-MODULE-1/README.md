@@ -74,9 +74,8 @@ TOKEN_ADDRESS="***"
 
 You will recieve the token address on running the deploy script.
 
-## Authors
 
-Sain Biswas - [sain.biswas614@gmail.com]
+
 
 ## License
 
